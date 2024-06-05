@@ -1,0 +1,204 @@
+Uri: http://at.alicdn.com/t/font_2992829_bq4dfplgav7.js
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_bq4dfplgav7.js
+Content Type: application/javascript
+
+Uri: http://at.alicdn.com/t/font_2992829_eh2djal9zmf.css
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_eh2djal9zmf.css
+Content Type: text/css
+
+Uri: http://at.alicdn.com/t/font_2992829_eh2djal9zmf.js
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_eh2djal9zmf.js
+Content Type: application/javascript
+
+Uri: http://at.alicdn.com/t/font_2992829_eh2djal9zmf.ttf?t=1639232250891
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_eh2djal9zmf.ttf
+Content Type: application/octet-stream
+
+Uri: http://at.alicdn.com/t/font_2992829_eh2djal9zmf.woff2?t=1639232250891
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_eh2djal9zmf.woff2
+Content Type: font/woff2
+
+Uri: http://at.alicdn.com/t/font_2992829_eh2djal9zmf.woff?t=1639232250891
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_eh2djal9zmf.woff
+Content Type: application/octet-stream
+
+Uri: http://at.alicdn.com/t/font_2992829_fn2mtxbv17.css
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_fn2mtxbv17.css
+Content Type: text/css
+
+Uri: http://at.alicdn.com/t/font_2992829_fn2mtxbv17.ttf?t=1638818112655
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_fn2mtxbv17.ttf
+Content Type: application/octet-stream
+
+Uri: http://at.alicdn.com/t/font_2992829_fn2mtxbv17.woff2?t=1638818112655
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_fn2mtxbv17.woff2
+Content Type: font/woff2
+
+Uri: http://at.alicdn.com/t/font_2992829_fn2mtxbv17.woff?t=1638818112655
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_fn2mtxbv17.woff
+Content Type: application/octet-stream
+
+Uri: http://at.alicdn.com/t/font_2992829_vutkr6ftosb.js
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_vutkr6ftosb.js
+Content Type: application/javascript
+
+Uri: http://at.alicdn.com/t/font_2992829_yyxi12q35.css
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_yyxi12q35.css
+Content Type: text/css
+
+Uri: http://at.alicdn.com/t/font_2992829_yyxi12q35.ttf?t=1648796869765
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_yyxi12q35.ttf
+Content Type: application/octet-stream
+
+Uri: http://at.alicdn.com/t/font_2992829_yyxi12q35.woff2?t=1648796869765
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_yyxi12q35.woff2
+Content Type: font/woff2
+
+Uri: http://at.alicdn.com/t/font_2992829_yyxi12q35.woff?t=1648796869765
+File Name: E:\桌面\www.eyy250.com\t\font_2992829_yyxi12q35.woff
+Content Type: application/octet-stream
+
+Uri: http://www.eyy250.com/
+File Name: E:\桌面\www.eyy250.com\index.htm
+Content Type: text/html
+
+Uri: http://www.eyy250.com/32.png
+File Name: E:\桌面\www.eyy250.com\32.png
+Content Type: image/png
+
+Uri: http://www.eyy250.com/css/bootstrap.min.css
+File Name: E:\桌面\www.eyy250.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://www.eyy250.com/css/utility/chevron.css
+File Name: E:\桌面\www.eyy250.com\css\utility\chevron.css
+Content Type: text/css
+
+Uri: http://www.eyy250.com/download/android.html
+File Name: E:\桌面\www.eyy250.com\download\android.html
+Content Type: text/html
+
+Uri: http://www.eyy250.com/download/osx.html
+File Name: E:\桌面\www.eyy250.com\download\osx.html
+Content Type: text/html
+
+Uri: http://www.eyy250.com/download/quanxain.html
+File Name: E:\桌面\www.eyy250.com\download\quanxain.html
+Content Type: text/html
+
+Uri: http://www.eyy250.com/download/term.html
+File Name: E:\桌面\www.eyy250.com\download\term.html
+Content Type: text/html
+
+Uri: http://www.eyy250.com/download/windows.html
+File Name: E:\桌面\www.eyy250.com\download\windows.html
+Content Type: text/html
+
+Uri: http://www.eyy250.com/download/XuKe.html
+File Name: E:\桌面\www.eyy250.com\download\XuKe.html
+Content Type: text/html
+
+Uri: http://www.eyy250.com/image/caozuo5.gif
+File Name: E:\桌面\www.eyy250.com\image\caozuo5.gif
+Content Type: image/gif
+
+Uri: http://www.eyy250.com/image/gif06.gif
+File Name: E:\桌面\www.eyy250.com\image\gif06.gif
+Content Type: image/gif
+
+Uri: http://www.eyy250.com/image/GongAn.png
+File Name: E:\桌面\www.eyy250.com\image\GongAn.png
+Content Type: image/png
+
+Uri: http://www.eyy250.com/image/ic-05.png
+File Name: E:\桌面\www.eyy250.com\image\ic-05.png
+Content Type: image/png
+
+Uri: http://www.eyy250.com/image/ic-logo-blak.svg
+File Name: E:\桌面\www.eyy250.com\image\ic-logo-blak.svg
+Content Type: image/svg+xml
+
+Uri: http://www.eyy250.com/image/ic_03.png
+File Name: E:\桌面\www.eyy250.com\image\ic_03.png
+Content Type: image/png
+
+Uri: http://www.eyy250.com/image/ic_gongju02.png
+File Name: E:\桌面\www.eyy250.com\image\ic_gongju02.png
+Content Type: image/png
+
+Uri: http://www.eyy250.com/image/ic_logo_la.svg
+File Name: E:\桌面\www.eyy250.com\image\ic_logo_la.svg
+Content Type: image/svg+xml
+
+Uri: http://www.eyy250.com/image/WeXin_Me.jpg
+File Name: E:\桌面\www.eyy250.com\image\WeXin_Me.jpg
+Content Type: image/jpeg
+
+Uri: http://www.eyy250.com/index.html
+File Name: E:\桌面\www.eyy250.com\index.html
+Content Type: text/html
+
+Uri: http://www.eyy250.com/info.html
+File Name: E:\桌面\www.eyy250.com\info.html
+Content Type: text/html
+
+Uri: http://www.eyy250.com/js/bdtongji.js
+File Name: E:\桌面\www.eyy250.com\js\bdtongji.js
+Content Type: application/javascript
+
+Uri: http://www.eyy250.com/js/bootstrap.bundle.min.js
+File Name: E:\桌面\www.eyy250.com\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: http://www.eyy250.com/js/jquery.slim.min.js
+File Name: E:\桌面\www.eyy250.com\js\jquery.slim.min.js
+Content Type: application/javascript
+
+Uri: http://www.eyy250.com/my.html
+File Name: E:\桌面\www.eyy250.com\my.html
+Content Type: text/html
+
+Uri: http://www.eyy250.com/price.html
+File Name: E:\桌面\www.eyy250.com\price.html
+Content Type: text/html
+
+Uri: http://www.eyy250.com/updateLog.html
+File Name: E:\桌面\www.eyy250.com\updateLog.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js
+File Name: E:\桌面\www.eyy250.com\npm\bootstrap@4.6.1\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js
+File Name: E:\桌面\www.eyy250.com\npm\jquery@3.5.1\dist\jquery.slim.min.js
+Content Type: application/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
+File Name: E:\桌面\www.eyy250.com\font-awesome\4.4.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.eot?
+File Name: E:\桌面\www.eyy250.com\font-awesome\4.4.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.eot?v=4.4.0
+File Name: E:\桌面\www.eyy250.com\font-awesome\4.4.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.svg?v=4.4.0
+File Name: E:\桌面\www.eyy250.com\font-awesome\4.4.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.ttf?v=4.4.0
+File Name: E:\桌面\www.eyy250.com\font-awesome\4.4.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.woff2?v=4.4.0
+File Name: E:\桌面\www.eyy250.com\font-awesome\4.4.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.woff?v=4.4.0
+File Name: E:\桌面\www.eyy250.com\font-awesome\4.4.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
